@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jean Carlos\\source\\repos\\Ejercicios_LibroCSharp\\Laboratorio\\Formulario\\Tarea 1 - Formulario.csproj": {}
+    "C:\\Users\\Jean Carlos\\source\\repos\\Form\\Formulario\\Tarea 1 - Formulario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jean Carlos\\source\\repos\\Ejercicios_LibroCSharp\\Laboratorio\\Formulario\\Tarea 1 - Formulario.csproj": {
+    "C:\\Users\\Jean Carlos\\source\\repos\\Form\\Formulario\\Tarea 1 - Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jean Carlos\\source\\repos\\Ejercicios_LibroCSharp\\Laboratorio\\Formulario\\Tarea 1 - Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\Jean Carlos\\source\\repos\\Form\\Formulario\\Tarea 1 - Formulario.csproj",
         "projectName": "Tarea 1 - Formulario",
-        "projectPath": "C:\\Users\\Jean Carlos\\source\\repos\\Ejercicios_LibroCSharp\\Laboratorio\\Formulario\\Tarea 1 - Formulario.csproj",
+        "projectPath": "C:\\Users\\Jean Carlos\\source\\repos\\Form\\Formulario\\Tarea 1 - Formulario.csproj",
         "packagesPath": "C:\\Users\\Jean Carlos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jean Carlos\\source\\repos\\Ejercicios_LibroCSharp\\Laboratorio\\Formulario\\obj\\",
+        "outputPath": "C:\\Users\\Jean Carlos\\source\\repos\\Form\\Formulario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jean Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config"
